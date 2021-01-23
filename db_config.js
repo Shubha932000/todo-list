@@ -7,7 +7,7 @@ let pool = mysql.createPool({
     user: "root",
 
 
-    password: "abcd",
+    password: "sdrf",
     database: "todo",
 });
 
